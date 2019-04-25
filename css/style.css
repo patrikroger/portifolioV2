@@ -1,0 +1,61 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background: linear-gradient(180deg, #00BBD8, #38CED8 50%, whitesmoke 50%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.card {
+    border-color: transparent;
+    box-shadow: 0px 4px 26px -7px rgba(0,0,0,0.49);
+}
+
+.card-body {
+    width: auto;
+}
+
+.card-subtitle {
+    color: #3d4451;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dedede;
+}
+
+.a {
+    color: #535353;
+}
+
+.b {
+    color: #9da0a7;
+}
+
+
+#photo {
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+}
+
+.img-fluid {
+    border-radius: 1%;
+}
+
+#linkedin {
+    color: #0077b5;
+}
+
+#instagram {
+    color: #f77737;
+}
+
+#twitter {
+    color: #1da1f2;
+}
+
+#github {
+    color: #333;
+}
